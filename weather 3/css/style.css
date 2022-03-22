@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #b69c8d;
+    transform: translateY(50px)
+}
+.inputData{
+    background-color: white;
+    width: 400px;
+    border-radius: 10px;
+}
+.txtInput{
+    margin:  10px 15px;
+    font-weight: 400px;
+    font-size: 22px;
+}
+.txt{
+    margin:  10px 15px;
+    width: 270px;
+    height: 55px;
+    /* border: none;
+    outline: none; */
+    text-align: center;
+    font-size: 25px;
+}
+#btn{
+    margin: 16px -10px;
+    width: 85px;
+    height: 25px;
+    text-align: center;
+    font-size: 5pxx;
+    color: white;
+    background-color: #b69c8d;;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+}
+.cityName{
+    margin:  10px 15px;
+    font-weight: 200px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.date{
+    margin:  10px 15px;
+    font-weight: 200px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.temp{
+    margin:  10px 15px;
+    font-weight: 500px;
+    font-size: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.DayTemp{
+    margin:  10px 15px;
+    font-weight: 200px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
